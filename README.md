@@ -1,0 +1,1 @@
+This is a photo gallery web application, written in Go and based on Jon Calhoun's Web Development with Go course, found at https://www.usegolang.com/
